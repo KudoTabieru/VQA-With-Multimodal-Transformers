@@ -13,7 +13,6 @@ def loadDaquarDataset(config: Dict) -> Dict:
 
     with open(os.path.join(config["data"]["dataset_folder"], config["data"]["answer_space"])) as f:
         answer_space = f.read().splitlines()
-
     
     dataset = dataset.map(
         lambda examples: {

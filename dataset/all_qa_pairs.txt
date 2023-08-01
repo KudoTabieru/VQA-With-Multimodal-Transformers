@@ -24934,3 +24934,395 @@ what is at the opposite side of the dining table in the image1449 ?
 decoration_item
 what is behind the wall divider in the image1449 ?
 table
+what is to the right of two beds in the image1450 ?
+mirror
+what is on the top of two beds in the image1450 ?
+pillow
+what is the colour of two beds in the image1450 ?
+white
+what is found above two beds in the image1450 ?
+photo
+what is on the top of the bed in the image1451 ?
+pillow
+what is found above the bed in the image1451 ?
+photo
+what is the colour of the bed in the image1451 ?
+white
+what is on the left of the bed in the image1451 ?
+lamp, chair
+how many beds are there in the image1452 ?
+two
+what is between two beds in the image1452 ?
+two_lamp
+what is found above two beds in the image1452 ?
+two_photo
+what is on the top of two beds in the image1453 ?
+blanket
+what is found above two beds in the image1453 ?
+two_photo
+what is the colour of two beds in the image1453 ?
+red
+how many beds are there in the image1454 ?
+one
+what is found above the bed in the image1454 ?
+photo
+what is on the left and the right of the bed in the image1454 ?
+two_lamp
+what is the colour of the bed in the image1454 ?
+red
+what is found above the sink in the image1455 ?
+mirror, faucet
+what is on the right of the sink in the image1455 ?
+bathtub
+what is the colour of the bathtub in the image1455 ?
+white
+what is found above the bathtub in the image1455 ?
+towel
+what is the colour of the towel in the image1455 ?
+white
+what is found above the toilet in the image1456 ?
+toilet_paper
+what is the colour of the toilet in the image1456 ?
+white
+what is the colour of the toilet_paper in the image1456 ?
+white
+what is on the right of the toilet in the image1456 ?
+white
+what is on the left of the bed in the image1457 ?
+lamp
+what is on the left of the lamp in the image1457 ?
+picture
+what is on the left corner in the image1457 ?
+couch
+what is on the top of the bed in the image1457 ?
+pillow
+what is in front of the sink in the image1458 ?
+toilet_paper
+what is found above the sink in the image1458 ?
+mirror, glass
+what is the colour of the sink in the image1458 ?
+white
+what is the object in the image1459 ?
+toilet
+what is the colour of the toilet in the image1459 ?
+white
+what is on the left of the toilet in the image1459 ?
+curtain
+what is the colour of the curtain in the image1459 ?
+yellow
+what is on the right of the sink in the image1460 ?
+bathtub
+what is the colour of the sink in the image1460 ?
+white
+what is the colour of the bathtub in the image1460 ?
+white
+what is found above the sink in the image1460 ?
+mirror
+what is on the left of the toilet in the image1461 ?
+sink, table
+what is the colour of the toilet in the image1461 ?
+white
+what is on the top of the table in the image1461 ?
+sink, toothpaste
+what is found above the sink in the image1462 ?
+mirror, toothpaste
+what is on the right of the sink in the image1462 ?
+towel
+what is the colour of the towel in the image1462 ?
+white 
+what is on the top of the bed in the image1463 ?
+pillow, blanket
+what is found above the bed in the image1463 ?
+picture
+what is on the right of the bed in the image1463 ?
+lamp, telephone, bottle
+what is above the floor in the image1464 ?
+toilet
+what is the colour of the toilet in the image1464 ?
+white
+what is behind the toilet in the image1464 ?
+wall
+what is the colour of the wall in the image1464 ?
+yellow
+how many sinks are there in the image1465 ?
+three
+how many mirrors are there in the image1465 ?
+three
+what is on the left of three sinks and three mirrors in the image1465 ?
+garbage_bin
+what is on the left of the sink in the image1466 ?
+refridgerator
+what is on the table in the image1466 ?
+camera, coffee_machine
+what is on the top of the bed in the image1467 ?
+pillow, blanket
+what is on the left and the right of the bed in the image1467 ?
+lamp
+what is found above the bed in the image1467 ?
+picture
+what is on the left of the bed in the image1467 ?
+window
+what is the colour of the bed in the image1467 ?
+white
+what is on the top of the sink in the image1468 ?
+tap
+what is the colour of the sink in the image1468 ?
+white 
+what is on the left of the bed in the image1469 ?
+picture
+what is on the top of the bed in the image1469 ?
+pillow
+what is on the right of the bed in the image1469 ?
+window
+what is found above the bed and on the left in the image1469 ?
+lamp
+what is at the corner of the image1469?
+table
+what is on the left of the bed in the image1470 ?
+picture
+what is on the top of the bed in the image1470 ?
+pillow
+what is on the right of the bed in the image1470 ?
+window
+what is found above the bed and on the left in the image1470 ?
+lamp
+what is at the right corner of the image1470?
+table
+what is on the top of the table in the image1471 ?
+notebook
+how many chairs are there in the image1471 ?
+four
+what is at the left corner of the image1471 ?
+window
+what is on the right of the bed in the image1472 ?
+table
+what is on the top of the bed in the image1472 ?
+pillow
+what is found above the bed and on the left in the image1472 ?
+picture
+what is at the middle of the image1472 ?
+window
+what is on the top of the table in the image1472 ?
+lamp
+what is found above the bed in the image1473 ?
+photo
+how many photos are there in the image1473 ?
+two
+what is on the right of the bed in the image1473 ?
+table, lamp
+what is on the top of the table in the image1473 ?
+lamp
+what is opposite the table in the image1473 ?
+bookshelf
+what is on the top of the table in the image1474 ?
+laptop, lamp
+what is found above the table in the image1474 ?
+picture
+what is opposite the table in the image1474 ?
+bed
+what is on the left of the table in the image1474 ?
+wardrobe
+what is on the top of the bed in the image1475 ?
+pillow
+what is on the left of the table in the image1475 ?
+table, lamp
+what is on the top of the table in the image1475 ?
+lamp
+how many tables are there in the image1475 ?
+two
+what is on the left of the refridgerator in the image1476 ?
+oven
+what is on the right of the oven in the image1476 ?
+refridgerator
+what is on the right of the refridgerator in the image1476 ?
+door
+what is the colour of the refridgerator in the image1476 ?
+white
+what is the colour of the sofa in the image1477 ?
+purple
+what is on the right of the sofa in the image1477 ?
+bookshelf
+how many chairs are there in the image1478 ?
+two
+what are the colour of two chairs and the table in the image1478 ?
+black
+what is on the top of the red table the image1478 ?
+microwave, toaster
+what is the colour of the sofa in the image1479 ?
+red
+what is behind the sofa in the image1479 ?
+mirror, chair, table
+what is opposite the sofa in the image1479 ?
+table 
+how many chairs are there in the image1479 ?
+four
+what is on the left and the right of the bed in the image1480 ?
+table, lamp
+how many lamps are there in the image1480 ?
+two
+how many tables are there in the image1480 ?
+two
+what is the colour is the bed in the image1480 ?
+white
+what is on the top of the bed in the image1480 ?
+pillow
+what is on the right of two beds in the image1481 ?
+window, table, lamp
+what is on the top of two beds in the image1481 ?
+pillow
+what is on the top of the table in the image1481 ?
+lamp
+what is on the right of the refridgerator in the image1482 ?
+microwave
+what is the colour of the microwave in the image1482 ?
+white
+what is at the right corner in the image1482 ?
+stove
+what is the colour of the bed in the image1483 ?
+red
+what is on the top of the bed in the image1483 ?
+blanket 
+what is found above the bed in the image1483 ?
+picture
+what is on the right of the bed in the image1483 ?
+table, lamp
+what is on the top of the table in the image1484 ?
+plate
+what is the colour of the table in the image1484 ?
+brown
+what is on the left of the sink in the image1484 ?
+coffee_machine
+what is the colour of the coffee_machine in the image1484 ?
+black
+how many chairs are there in the image1485 ?
+two
+what is on the top of the table in the image1485 ?
+decorative_candle, glass
+what is opposite the table and two chairs in the image1485 ?
+window
+what is on the right of the stove in the image1486 ?
+sink
+what is the color of the stove in the image1486 ?
+black
+what is on the left of the stove in the image1486 ?
+stove
+what is found above the washing_machine in the image1487 ?
+sink
+what is found above the sink in the image1487 ?
+window
+what is on the right of the sink in the image1487 ?
+microwave
+what is on the right of the microwave in the image1487 ?
+refridgerator
+what is the colour of the refridgerator in the image1487 ?
+white
+what is in the center of the image1488 ?
+microwave
+what is the colour of the microwave in the image1488 ?
+gray
+what is the colour of the microwave in the image1489 ?
+white 
+what is on the right of the microwave in the image1489 ?
+vase	
+what is on the left of the stove in the image1489 ?
+vase
+what is the colour of the vase in the image1489 ?
+white
+what is on the top of the bed in the image1490 ?
+pillow
+what is on the left of the bed in the image1490 ?
+lamp
+what is opposite the bed in the image1490 ?
+television
+what is at the middle of the image1490 ?
+mirror
+what is opposite the people in the image1491 ?
+television
+what is is the top of the bed in the image1491 ?
+person
+what is on the left of the television in the image1491 ?
+mirror
+what is on the right of the television in the image1491 ?
+picture
+what is on the top of the bed in the image1492 ?
+bag
+how many beds are there in the image1492 ?
+two
+what is on the top of the table in the image1492 ?
+lamp
+what is found above the right of the bed in the image1492 ?
+window
+how many chairs are there in the image1493 ?
+two
+what is on the top of the table in the image1493 ?
+lamp, notebook
+what is on the left corner of the table in the image1493 ?
+picture 
+how many lamps are there in the image1493 ?
+two
+what is found above the sink in the image1494 ?
+mirror
+what is on the top of the sink in the image1494 ?
+glass
+what is the colour of the sink in the image1494 ?
+white
+what is inside the mirror in the image1494 ?
+towel
+what is the colour of the towel in the image1494 ?
+white
+what is on the left of the bed in the image1495 ?
+window
+what is on the top of the bed in the image1495 ?
+pillow
+how many pillows are there in the bed in the image1495 ?
+four
+what is on the left and the right of the window in the image1495 ?
+curtain
+what is the colour of the blanket on the top of the bed in the image1495 ?
+white
+what is on the right of the sink in the image1496 ?
+microwave 
+what is on the left of the microwave in the image1496 ?
+sink
+what is the colour of the microwave in the image1496 ?
+white
+what is on the left corner in the image1496 ?
+door
+what is on the right of the door in the image1496 ?
+stove
+what is the colour of the stove in the image1496 ?
+white 
+what is on the right of the microwave in the image1497 ?
+refridgerator
+what is on the left of the refridgerator in the image1497 ?
+microwave
+what is the colour of the refridgerator in the image1497 ?
+white
+what is opposite the refridgerator in the image1497 ?
+table
+what is on the top of the table in the image1497 ?
+bag
+how many pillows are there in the image1498 ?
+two
+what is the colour of the pillow in the image1498 ?
+white
+what is the colour of the armchair in the image1498 ?
+yellow
+what is on the left of the bed in the image1498 ?
+lamp
+what is on the left corner of the image1498 ?
+door
+what is opposite the armchair in the image1498 ?
+bed
+how many pillows are there in the image1499 ?
+two
+what is the colour of the pillow in the image1499 ?
+white
+what is the colour of the armchair in the image1499 ?
+yellow
+what is on the left of the bed in the image1499 ?
+lamp
+what is on the left corner of the image1499 ?
+door
+what is opposite the armchair in the image1499 ?
+bed

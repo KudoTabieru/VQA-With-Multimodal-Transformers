@@ -1,15 +1,15 @@
 {
-    "train_runtime": 691.5322,
-    "train_samples_per_second": 72.115,
-    "train_steps_per_second": 2.256,
-    "train_loss": 4.342276431352664,
-    "epoch": 5.0,
-    "eval_loss": 3.9437813758850098,
-    "eval_wups": 0.2200180325021041,
-    "eval_acc": 0.16279069767441862,
-    "eval_f1": 0.016950046038102084,
-    "eval_runtime": 11.2103,
-    "eval_samples_per_second": 222.475,
-    "eval_steps_per_second": 6.958,
-    "num_params": 98531078
+    "train_runtime": 30980.9939,
+    "train_samples_per_second": 0.644,
+    "train_steps_per_second": 0.02,
+    "train_loss": 4.609840882130158,
+    "epoch": 2.0,
+    "eval_loss": 4.066191673278809,
+    "eval_wups": 0.23547088198600666,
+    "eval_acc": 0.17000801924619086,
+    "eval_f1": 0.009127085061729332,
+    "eval_runtime": 432.3826,
+    "eval_samples_per_second": 5.768,
+    "eval_steps_per_second": 0.18,
+    "num_params": 211493126
 }

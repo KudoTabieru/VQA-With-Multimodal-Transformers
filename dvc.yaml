@@ -8,11 +8,11 @@ stages:
     - data
     outs:
     - dataset/data_train.csv:
-        cache: false
+        cache: true
     - dataset/data_eval.csv:
-        cache: false
+        cache: true
     - dataset/answer_space.txt:
-        cache: false
+        cache: true
   
   train:
     cmd: python src/main.py --config=params.yaml

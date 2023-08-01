@@ -32,7 +32,7 @@ The `src/` folder contains all the scripts necessary for data processing & model
 Following are the important scripts to experiment with the VQA models:
 
 - `src/process_data.py`: Process the raw DAQUAR dataset available in `dataset/` folder & split it into training & evaluation sets, along with the space of all possible answers
-- `src/main.py`: Train & evaluate the multimodal VQA model after loading the processed dataset.
+- `src/main.py`: Train &\\\\\\ evaluate the multimodal VQA model after loading the processed dataset.
 - `src/inference.py`: Use a trained multimodal VQA model from a checkpoint to answer a question, given a reference image
 
 After making necessary changes to the `params.yaml` file, the pipeline can be automated by running `dvc repro`. This will run the data processing & model training (& evaluation) stages.
